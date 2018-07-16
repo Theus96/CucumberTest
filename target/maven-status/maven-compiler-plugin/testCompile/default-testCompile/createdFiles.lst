@@ -1,0 +1,3 @@
+br\com\cucumber\brq\Runner.class
+br\com\cucumber\brq\StepDefinition.class
+br\com\cucumber\brq\AppTest.class
